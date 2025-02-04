@@ -1,0 +1,12 @@
+/home/kali/app/my-first-app
+/home/kali/app/appsettings.Development.json
+/home/kali/app/appsettings.json
+/home/kali/app/my-first-app.dll
+/home/kali/app/my-first-app.deps.json
+/home/kali/app/my-first-app.runtimeconfig.json
+/home/kali/app/my-first-app.pdb
+/home/kali/app/Microsoft.AspNetCore.OpenApi.dll
+/home/kali/app/Microsoft.OpenApi.dll
+/home/kali/app/Swashbuckle.AspNetCore.Swagger.dll
+/home/kali/app/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/kali/app/Swashbuckle.AspNetCore.SwaggerUI.dll
